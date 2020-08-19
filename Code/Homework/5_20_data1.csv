@@ -1,0 +1,7 @@
+Age,Salary,STU,Credit,Buy Computer
+<30,H,No,OK,No
+<30,H,No,Good,No
+30-40,H,No,Good,Yes
+>40,M,Yes,OK,Yes
+>40,L,Yes,OK,Yes
+>40,L,Yes,Good,No

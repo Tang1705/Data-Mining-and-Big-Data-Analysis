@@ -1,0 +1,15 @@
+Age,Salary,STU,Credit,Buy Computer
+<30 ,  H ,  No ,  OK ,  No  
+ <30 ,  H ,  No ,  Good ,  No  
+ 30-40 ,  H ,  No ,  OK ,  Yes  
+ >40 ,  M ,  No ,  OK ,  Yes  
+ >40 ,  L ,  Yes ,  OK ,  Yes  
+ >40 ,  L ,  Yes ,  Good ,  No  
+ 30-40 ,  L ,  Yes ,  Good ,  Yes  
+ <30 ,  M ,  No ,  OK ,  No  
+ <30 ,  L ,  Yes ,  OK ,  Yes  
+ >40 ,  M ,  Yes ,  OK ,  Yes  
+ <30 ,  M ,  Yes ,  Good ,  Yes  
+ 30-40 ,  M ,  No ,  Good ,  Yes  
+ 30-40 ,  H ,  Yes ,  OK ,  Yes  
+ >40 ,  M ,  No ,  Good ,  No  
